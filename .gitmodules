@@ -1,0 +1,6 @@
+[submodule "scapegoat"]
+	path = scapegoat
+	url = git@github.com:ULL-ESIT-DSI-1617/scapegoat.git
+[submodule "prueba-scapegoat"]
+	path = prueba-scapegoat
+	url = git@github.com:ULL-ESIT-DSI-1617/prueba-scapegoat.git
