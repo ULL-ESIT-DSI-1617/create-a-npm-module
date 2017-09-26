@@ -1,3 +1,6 @@
+* See [ULL-ESIT-DSI-1617/scapegoat](https://github.com/ULL-ESIT-DSI-1617/scapegoat) an example of a npm module
+* See also [https://github.com/ULL-ESIT-DSI-1617/prueba-scapegoat](https://github.com/ULL-ESIT-DSI-1617/prueba-scapegoat)
+  a client repo that tests the former
 * This repo illustrates the use of submodules
 * See [Chapter 7.11 Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of the Git Book
 
